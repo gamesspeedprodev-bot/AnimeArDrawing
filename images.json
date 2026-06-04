@@ -46,7 +46,7 @@
   },
   {
     "title": "Drawing 10",
-    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/ AnimeArDrawing/main/Anime/10.png",
+    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/AnimeArDrawing/main/Anime/10.png",
     "price": 120
   },
   {
@@ -63,10 +63,6 @@
     "title": "Drawing 13",
     "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/AnimeArDrawing/main/Anime/13.png",
     "price": 150
-  },
-  {
-    "title": "Drawing 14",
-    "url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/ AnimeArDrawing/main/Anime/14.png",
-    "price": 150
   }
+
 ]
